@@ -1,0 +1,38 @@
+<annotation>
+	<folder>TEST IMAGES</folder>
+	<filename>367.jpg</filename>
+	<path>/Users/kratik/Workspace/COOLER_SCREENS/TEST IMAGES/367.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shelf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>398</xmin>
+			<ymin>105</ymin>
+			<xmax>1483</xmax>
+			<ymax>642</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>shelf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>277</xmin>
+			<ymin>584</ymin>
+			<xmax>1521</xmax>
+			<ymax>1020</ymax>
+		</bndbox>
+	</object>
+</annotation>
