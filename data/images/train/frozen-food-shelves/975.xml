@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>975.jpg</filename>
+	<path>/Users/kratik/Downloads/coolerScreenImages/IN_PROGRESS/frozen_food_cooler/1/975.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>frozen-food-shelf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>484</xmin>
+			<ymin>645</ymin>
+			<xmax>2024</xmax>
+			<ymax>1098</ymax>
+		</bndbox>
+	</object>
+</annotation>

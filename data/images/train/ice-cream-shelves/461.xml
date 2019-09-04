@@ -1,0 +1,26 @@
+<annotation>
+	<folder>icecream</folder>
+	<filename>461.jpg</filename>
+	<path>C:\Users\nshan\Downloads\169-269-ice-cream\icecream\461.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ice-cream-shelf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>532</xmin>
+			<ymin>769</ymin>
+			<xmax>2070</xmax>
+			<ymax>1266</ymax>
+		</bndbox>
+	</object>
+</annotation>
