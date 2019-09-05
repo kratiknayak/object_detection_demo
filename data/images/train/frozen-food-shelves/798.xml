@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Image</folder>
+	<filename>798.jpg</filename>
+	<path>C:\Users\Admin\Downloads\1-168-frozen-food\Image\798.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>frozen-food-shelf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>338</xmin>
+			<ymin>677</ymin>
+			<xmax>1706</xmax>
+			<ymax>1089</ymax>
+		</bndbox>
+	</object>
+</annotation>
