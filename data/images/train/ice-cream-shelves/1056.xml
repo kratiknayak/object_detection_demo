@@ -1,0 +1,38 @@
+<annotation>
+	<folder>cs-v04-000-1478</folder>
+	<filename>1056.jpg</filename>
+	<path>C:\Users\nshan\Desktop\new ice cream\ice_cream_coolers\cs-v04-000-1478\1056.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ice-cream-shelf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>411</xmin>
+			<ymin>842</ymin>
+			<xmax>1923</xmax>
+			<ymax>1366</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ice-cream-shelf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>414</xmin>
+			<ymin>477</ymin>
+			<xmax>1923</xmax>
+			<ymax>824</ymax>
+		</bndbox>
+	</object>
+</annotation>
