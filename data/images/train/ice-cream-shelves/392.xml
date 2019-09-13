@@ -1,7 +1,7 @@
 <annotation>
-	<folder>icecream</folder>
+	<folder>new ice cream</folder>
 	<filename>392.jpg</filename>
-	<path>C:\Users\nshan\Downloads\169-269-ice-cream\icecream\392.jpg</path>
+	<path>/Users/kratik/Downloads/new ice cream/392.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>479</xmin>
-			<ymin>798</ymin>
-			<xmax>1970</xmax>
-			<ymax>1280</ymax>
+			<xmin>488</xmin>
+			<ymin>802</ymin>
+			<xmax>1936</xmax>
+			<ymax>1250</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ice-cream-shelf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>503</xmin>
+			<ymin>397</ymin>
+			<xmax>1966</xmax>
+			<ymax>797</ymax>
 		</bndbox>
 	</object>
 </annotation>

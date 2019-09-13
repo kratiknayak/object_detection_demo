@@ -1,7 +1,7 @@
 <annotation>
-	<folder>ice_cream_cooler</folder>
+	<folder>cs-v04-000-1478</folder>
 	<filename>1124.jpg</filename>
-	<path>/Users/kratik/Downloads/coolerScreenImages/IN_PROGRESS/ice_cream_cooler/1124.jpg</path>
+	<path>C:\Users\nshan\Desktop\new ice cream\ice_cream_coolers\cs-v04-000-1478\1124.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>426</xmin>
-			<ymin>405</ymin>
-			<xmax>1851</xmax>
-			<ymax>867</ymax>
+			<xmin>432</xmin>
+			<ymin>374</ymin>
+			<xmax>1864</xmax>
+			<ymax>848</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>398</xmin>
-			<ymin>867</ymin>
-			<xmax>1843</xmax>
-			<ymax>1247</ymax>
+			<xmin>429</xmin>
+			<ymin>848</ymin>
+			<xmax>1856</xmax>
+			<ymax>1239</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>411</xmin>
-			<ymin>1247</ymin>
-			<xmax>1808</xmax>
-			<ymax>1530</ymax>
+			<xmin>420</xmin>
+			<ymin>1242</ymin>
+			<xmax>1856</xmax>
+			<ymax>1522</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>423</xmin>
-			<ymin>1532</ymin>
-			<xmax>1811</xmax>
-			<ymax>1840</ymax>
+			<xmin>429</xmin>
+			<ymin>1524</ymin>
+			<xmax>1838</xmax>
+			<ymax>1842</ymax>
 		</bndbox>
 	</object>
 </annotation>

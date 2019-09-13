@@ -1,7 +1,7 @@
 <annotation>
-	<folder>icecream</folder>
+	<folder>cs-v04-000-1473</folder>
 	<filename>539.jpg</filename>
-	<path>C:\Users\nshan\Downloads\169-269-ice-cream\icecream\539.jpg</path>
+	<path>C:\Users\nshan\Desktop\new ice cream\ice_cream_coolers\cs-v04-000-1473\539.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>406</xmin>
-			<ymin>789</ymin>
-			<xmax>1832</xmax>
-			<ymax>1245</ymax>
+			<xmin>461</xmin>
+			<ymin>816</ymin>
+			<xmax>1864</xmax>
+			<ymax>1222</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>441</xmin>
-			<ymin>1213</ymin>
-			<xmax>1809</xmax>
-			<ymax>1642</ymax>
+			<xmin>456</xmin>
+			<ymin>427</ymin>
+			<xmax>1861</xmax>
+			<ymax>819</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ice-cream-shelf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>461</xmin>
+			<ymin>1210</ymin>
+			<xmax>1817</xmax>
+			<ymax>1622</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
-	<folder>ice_cream_cooler</folder>
+	<folder>cs-v04-000-1478</folder>
 	<filename>1118.jpg</filename>
-	<path>/Users/kratik/Downloads/coolerScreenImages/IN_PROGRESS/ice_cream_cooler/1118.jpg</path>
+	<path>C:\Users\nshan\Desktop\new ice cream\ice_cream_coolers\cs-v04-000-1478\1118.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>318</xmin>
-			<ymin>465</ymin>
-			<xmax>1636</xmax>
-			<ymax>850</ymax>
+			<xmin>323</xmin>
+			<ymin>860</ymin>
+			<xmax>1659</xmax>
+			<ymax>1227</ymax>
 		</bndbox>
 	</object>
 </annotation>
