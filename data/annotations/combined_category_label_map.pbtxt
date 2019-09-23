@@ -1,9 +1,0 @@
-item {
-    id: 1
-    name: 'ice-cream-shelf'
-}
-
-item {
-	id: 2
-	name: 'frozen-food-shelf'
-}
