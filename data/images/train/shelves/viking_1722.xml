@@ -1,0 +1,26 @@
+<annotation>
+	<folder>coolers images</folder>
+	<filename>viking_1722.jpg</filename>
+	<path>D:\coolers images\viking_1722.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shelf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>400</xmin>
+			<ymin>788</ymin>
+			<xmax>1867</xmax>
+			<ymax>1491</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>new ice cream</folder>
+	<filename>537.jpg</filename>
+	<path>/Users/kratik/Downloads/new ice cream/537.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shelf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>316</xmin>
+			<ymin>695</ymin>
+			<xmax>1563</xmax>
+			<ymax>1082</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>shelf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>326</xmin>
+			<ymin>1095</ymin>
+			<xmax>1558</xmax>
+			<ymax>1417</ymax>
+		</bndbox>
+	</object>
+</annotation>
