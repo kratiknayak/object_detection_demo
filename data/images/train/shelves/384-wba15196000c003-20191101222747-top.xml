@@ -1,7 +1,7 @@
 <annotation>
-	<folder>wba-15196-000-c003</folder>
+	<folder>train</folder>
 	<filename>384-wba15196000c003-20191101222747-top.jpg</filename>
-	<path>C:\Users\Qwinix\Documents\HAWK-15196\wba-15196-000-c003\384-wba15196000c003-20191101222747-top.jpg</path>
+	<path>/Users/kratik/Desktop/train/384-wba15196000c003-20191101222747-top.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -21,6 +21,18 @@
 			<ymin>257</ymin>
 			<xmax>1573</xmax>
 			<ymax>1001</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>shelf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>385</xmin>
+			<ymin>1014</ymin>
+			<xmax>1555</xmax>
+			<ymax>1452</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
-	<folder>wba-15196-000-c003</folder>
+	<folder>train</folder>
 	<filename>405-wba15196000c003-20191103095915-top.jpg</filename>
-	<path>C:\Users\Qwinix\Documents\HAWK-15196\wba-15196-000-c003\405-wba15196000c003-20191103095915-top.jpg</path>
+	<path>/Users/kratik/Desktop/train/405-wba15196000c003-20191103095915-top.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -11,4 +11,40 @@
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
+	<object>
+		<name>shelf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>388</xmin>
+			<ymin>370</ymin>
+			<xmax>1550</xmax>
+			<ymax>1008</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>shelf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>393</xmin>
+			<ymin>1006</ymin>
+			<xmax>1553</xmax>
+			<ymax>1468</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>shelf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>423</xmin>
+			<ymin>1465</ymin>
+			<xmax>1523</xmax>
+			<ymax>1860</ymax>
+		</bndbox>
+	</object>
 </annotation>
