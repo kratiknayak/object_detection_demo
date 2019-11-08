@@ -1,0 +1,26 @@
+<annotation>
+	<folder>wba-15196-000-c002</folder>
+	<filename>664-wba15196000c002-20191102220724-middle.jpg</filename>
+	<path>C:\Users\Qwinix\Documents\HAWK-15196\wba-15196-000-c002\664-wba15196000c002-20191102220724-middle.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shelf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>432</xmin>
+			<ymin>1036</ymin>
+			<xmax>1782</xmax>
+			<ymax>1654</ymax>
+		</bndbox>
+	</object>
+</annotation>
